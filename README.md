@@ -28,7 +28,7 @@
 <p><a href="https://www.buymeacoffee.com/ananya-ojha09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ananya-ojha09" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-ojha09&show_icons=true&locale=en" alt="ananya-ojha09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manvityagi30&show_icons=true&locale=en" alt="Manvityagi30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-ojha09&" alt="ananya-ojha09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manvityagi30&" alt="Manvityagi30" /></p>
 
