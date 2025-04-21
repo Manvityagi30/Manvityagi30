@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **HTML,CSS, Javascript, Python, SQL**
+- 💬 Ask me about **HTML,CSS, Javascript, React.js, Mongodb, Tailwind Python, SQL**
 
-- 📫 How to reach me **tyagimanvi@gmail.com**
+- 📫 How to reach me **tyagimanvi950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
